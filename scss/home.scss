@@ -1,0 +1,45 @@
+.league-logo{
+    width: 100%;
+    height: 70px;
+    // background-color: gold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    img{
+        margin-left: 20px;
+        width: 70px;
+        height: 70px;
+    }
+
+    .league-name{
+        margin-right: 20px;
+
+        h1{
+            color: white;
+            
+
+          }
+    }
+}
+
+.leagueHero{
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    img{
+        width: 650px;
+        height: 250px;
+    }
+    
+    .heroText{
+        width: 400px;
+        height: 250px;
+        // background-color: aliceblue;
+        text-align: center;
+    }
+}
